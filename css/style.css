@@ -225,6 +225,7 @@ span.line{
 
 #hab .container{
   top: 60px;
+  position: relative;
 }
 
 #hab h3{
